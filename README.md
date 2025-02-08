@@ -38,3 +38,8 @@ The testbench reads, displays, and validates data for uniqueness.
 🔹 Check random_data.txt for generated numbers.
 
 🔹 Analyze data distribution in Excel/Python.
+#  Scatter Plot
+![scatter plot_1](https://github.com/user-attachments/assets/98478aac-eb5d-4e12-ac06-95d106deafb4)
+
+![scatter plot_2](https://github.com/user-attachments/assets/5028095c-e39c-4674-aa55-84b43acfeacb)
+
